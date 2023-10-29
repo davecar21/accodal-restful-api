@@ -89,9 +89,3 @@ Contributor name and contact info
 Davecar Grave
 davecargrave@gmail.com
 [https://www.linkedin.com/in/davecargrave/](https://www.linkedin.com/in/davecargrave/)
-
-## TODO
-
-- documentation of Api
-- Secure the API endpoints and document how to use them.
-- Ensure error handling and validation in the API.
